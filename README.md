@@ -24,7 +24,7 @@ My bubbly and lively personality, galvanises a team, creating a positive work en
 
 ### PROJECTS
 |   Project   |   Summary   |   Technologies   |
-|---------------------------------|
+|-------------|-------------|------------------|
 | [Stumbler](https://github.com/hawksdoves/pubcrawler) | An app that creates a pub crawl with challenges, for a given location | Yelp API, Google maps API, Angular, Ionic, Ruby on Rails, ActiveRecords, Rspec, Karma, Protractor |
 | [Slinks](https://github.com/hawksdoves/slinks) | Automatically saves all the links posted within slack. To be developed to include stars and tags | Slack API, Angular, Node, Sequelize, PostgreSQL, Karma/Protractor |
 | [MakersBnB](https://github.com/hawksdoves/makers_bnb) | A holiday rental website, where people can list their own properties as well as book others | Sinatra, DataMapper, PostgreSQL, Rspec, Capybara  |
@@ -34,7 +34,7 @@ My bubbly and lively personality, galvanises a team, creating a positive work en
 
 ### EMPLOYMENT
 
- ###### <p align="center"> Business Development & Marketing </p> ######
+###### <p align="center"> Business Development & Marketing </p> ######
 *Sept 2014 – Jan 2016 __DataGuidance, International Business Development, Marketing & Partnerships Lead__*  
 • Developing and implementing marketing and business development plans, with monthly and quarterly
 analysis of sales, demos, revenue, new leads generated from webinars and conversion rates.  
