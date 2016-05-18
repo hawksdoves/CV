@@ -56,10 +56,10 @@ analysis of sales, demos, revenue, new leads generated from webinars and convers
 
 ###### <p align="center"> Teaching </p> ######
 
-*2012 __University of Bristol Disability Centre,__ 2nd Year Economics 1-on-1 Tutor*
+*2012 __University of Bristol Disability Centre,__ 2nd Year Economics 1-on-1 Tutor*  
 • I had to be flexible and often imaginative, when coming up with ways to explain ideas, models and processes clearly, such that the student could understand.  
 
-*2009 __Bedminster Down School,__ Assistant Mathematics Teacher*
+*2009 __Bedminster Down School,__ Assistant Mathematics Teacher*  
 • One on one tutoring with pupils aged 11-15 I had to be creative to gain the student’s interest, and get them engaged with the subject, whilst improving their understanding in mathematics.
 
 ### RESPONSIBILITIES
