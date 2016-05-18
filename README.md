@@ -8,12 +8,8 @@ My bubbly and lively personality, galvanises a team, creating a positive work en
 
 #### Makers Academy:
 *Feb – May 2016 __Intensive, full stack, web development course__*  
-&nbsp;&nbsp;&nbsp;&nbsp;•Front end: HTML5, CSS, JavaScript, jQuery, Angular.js, AJAX  
-&nbsp;&nbsp;&nbsp;&nbsp;•Back end: Ruby, Rails, Sinatra, Node.js  
-&nbsp;&nbsp;&nbsp;&nbsp;•Testing: RSpec, Capybara, Jasmine  
-&nbsp;&nbsp;&nbsp;&nbsp;•Databases: PostgreSQL, MongoDB, ActiveRecords, DataMapper  
 &nbsp;&nbsp;&nbsp;&nbsp;•Programming principles: OOP, TDD, SOLID, Agile, Pair-programming  
-&nbsp;&nbsp;&nbsp;&nbsp;•Version Control  
+
 #### University of Bristol:
 *2011 – Jan 2013 __MSc Economics and Finance, Merit,__*  
 &nbsp;&nbsp;&nbsp;&nbsp;(Derivatives Unit, Investment Management Unit, International Finance Unit, Asset Pricing Unit)
