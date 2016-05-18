@@ -10,13 +10,14 @@ My bubbly and lively personality, galvanises a team, creating a positive work en
 *Feb – May 2016 __Intensive, full stack, web development course__*  
 &nbsp;&nbsp;&nbsp;&nbsp;•Front end: HTML5, CSS, JavaScript, jQuery, Angular.js, AJAX  
 &nbsp;&nbsp;&nbsp;&nbsp;•Back end: Ruby, Rails, Sinatra, Node.js  
-&nbsp;&nbsp;&nbsp;&nbsp;•Testing: RSpec, Cucumber, Capybara, Jasmine  
+&nbsp;&nbsp;&nbsp;&nbsp;•Testing: RSpec, Capybara, Jasmine  
 &nbsp;&nbsp;&nbsp;&nbsp;•Databases: PostgreSQL, MongoDB, ActiveRecords, DataMapper  
 &nbsp;&nbsp;&nbsp;&nbsp;•Programming principles: OOP, TDD, SOLID, Agile, Pair-programming  
 &nbsp;&nbsp;&nbsp;&nbsp;•Version Control  
 #### University of Bristol:
 *2011 – Jan 2013 __MSc Economics and Finance, Merit,__*  
-&nbsp;&nbsp;&nbsp;&nbsp;(Derivatives Unit, Investment Management Unit, International Finance Unit, Asset Pricing Unit)  
+&nbsp;&nbsp;&nbsp;&nbsp;(Derivatives Unit, Investment Management Unit, International Finance Unit, Asset Pricing Unit)
+
 *2008 – 2011 __BSc Economics and Mathematics, 2.1 (1st average in final year Math)__*  
 &nbsp;&nbsp;&nbsp;&nbsp;(Financial Mathematics Unit, Optimisation Unit, Probability Unit, Statistics Unit, Incentives in Organisations Unit, Game Theory)
 #### South Hampstead High School:
@@ -25,11 +26,11 @@ My bubbly and lively personality, galvanises a team, creating a positive work en
 ### PROJECTS
 |   Project   |   Summary   |   Technologies   |
 |-------------|-------------|------------------|
-| [Stumbler](https://github.com/hawksdoves/pubcrawler) | An app that creates a pub crawl with challenges, for a given location | Yelp API, Google maps API, Angular, Ionic, Ruby on Rails, ActiveRecords, Rspec, Karma, Protractor |
-| [Slinks](https://github.com/hawksdoves/slinks) | Automatically saves all the links posted within slack. To be developed to include stars and tags | Slack API, Angular, Node, Sequelize, PostgreSQL, Karma/Protractor |
-| [MakersBnB](https://github.com/hawksdoves/makers_bnb) | A holiday rental website, where people can list their own properties as well as book others | Sinatra, DataMapper, PostgreSQL, Rspec, Capybara  |
-| [Chitter](https://github.com/hawksdoves/chitter-challenge) | A basic twitter clone | Sinatra, DataMapper PostgreSQL, Rspec |
-| [Webmark Manager](https://github.com/hawksdoves/Webmark_manager) | Allows you to save website links and store them under tags which you can filter by | Sinatra, DataMapper, Rspec |
+| [Stumbler](https://github.com/hawksdoves/pubcrawler) | An app that creates a pub crawl with challenges, for a given location | Yelp API, Google maps API, Angular, Ionic, Ruby on Rails, ActiveRecords, Rspec, Karma, Protractor, HTML5, CSS |
+| [Slinks](https://github.com/hawksdoves/slinks) | Automatically saves all the links posted within slack. To be developed to include stars and tags | Slack API, Angular, Node, Sequelize, PostgreSQL, Karma/Protractor, HTML5, CSS |
+| [MakersBnB](https://github.com/hawksdoves/makers_bnb) | A holiday rental website, where people can list their own properties as well as book others | Sinatra, DataMapper, PostgreSQL, Rspec, Capybara, HTML5, CSS  |
+| [Chitter](https://github.com/hawksdoves/chitter-challenge) | A basic twitter clone | Sinatra, DataMapper PostgreSQL, Rspec, HTML5, CSS |
+| [Webmark Manager](https://github.com/hawksdoves/Webmark_manager) | Allows you to save website links and store them under tags which you can filter by | Sinatra, DataMapper, Rspec, HTML5, CSS |
 
 
 ### EMPLOYMENT
@@ -66,7 +67,7 @@ analysis of sales, demos, revenue, new leads generated from webinars and convers
 • One on one tutoring with pupils aged 11-15 I had to be creative to gain the student’s interest, and get them engaged with the subject, whilst improving their understanding in mathematics.
 
 ### RESPONSIBILITIES
-*2008 – 2011 __Bristol Debating Union, Vice-President (2010-2011), Treasurer (2009 – 2010)__*
+###### *2008 – 2011 Bristol Debating Union, Vice-President (2010-2011), Treasurer (2009 – 2010)* ######
 • Challenge, debate or present ideas whilst under pressure, honing my logical thinking and analysis skills, whilst presenting articulately, confidently and persuasively.  
 • Taught and coached new members British Parliamentary Style debating.  
 • Using my leadership skills to recruit new members to the society, our membership increased fivefold.  
