@@ -23,7 +23,7 @@ My bubbly and lively personality, galvanises a team, creating a positive work en
 *2005 – 2007 __A-Levels: Mathematics A, Economics A, Physics B, Geography B__*
 
 ### PROJECTS
-| Project | Summary | Technologies|
+|   Project   |   Summary   |   Technologies   |
 |---------------------------------|
 | [Stumbler](https://github.com/hawksdoves/pubcrawler) | An app that creates a pub crawl with challenges, for a given location | Yelp API, Google maps API, Angular, Ionic, Ruby on Rails, ActiveRecords, Rspec, Karma, Protractor |
 | [Slinks](https://github.com/hawksdoves/slinks) | Automatically saves all the links posted within slack. To be developed to include stars and tags | Slack API, Angular, Node, Sequelize, PostgreSQL, Karma/Protractor |
