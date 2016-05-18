@@ -32,7 +32,7 @@ My bubbly and lively personality, galvanises a team, creating a positive work en
 ### EMPLOYMENT
 
 ###### <p align="center"> Business Development & Marketing </p> ######
-*Sept 2014 – Jan 2016 __DataGuidance, International Business Development, Marketing & Partnerships Lead__*  
+*Sept 2014 – Jan 2016 __DataGuidance,__ International Business Development, Marketing & Partnerships Lead*  
 • Developing and implementing marketing and business development plans, with monthly and quarterly
 analysis of sales, demos, revenue, new leads generated from webinars and conversion rates.  
 • Researching potential clients and partnership opportunities. Organising webinars and events with law firms, on privacy topics and developments that we know our clients and potential clients are interested in.   
@@ -41,25 +41,25 @@ analysis of sales, demos, revenue, new leads generated from webinars and convers
 
 ###### <p align="center"> Financial </p> ######
 
-*Nov 2013 – June 2014 __Marshall Wace Asset Management, Junior Fund Accountant__*  
+*Nov 2013 – June 2014 __Marshall Wace Asset Management,__ Junior Fund Accountant*  
 • Daily reconciliation of trades; with a tight deadline, investigating differences in values and positions, attention to detail is imperative.  
 • Independent projects, such as discussing with Brokers how we could change the data in the trade files that they send us, so that we can reduce risk and improve efficiency both in our team and theirs.
 
-*March – Nov 2013 __Deloitte, Financial Investigator Case Handler (Contract)__*  
+*March – Nov 2013 __Deloitte,__ Financial Investigator Case Handler (Contract)*  
 • Working in teams, allows everyone to support one another, making sure everyone hits their target each week and with daily performance reviews, maintaining both quality and quantity is a must.  
 
-*2009 __Goldman Sachs, Investment Banking Division Spring Programme__*
+*2009 __Goldman Sachs,__ Investment Banking Division Spring Programme*
 
-*2007 – 2008 __Price Waterhouse Coopers, Accountant, Audit (Gap year scheme)__*  
+*2007 – 2008 __Price Waterhouse Coopers,__ Accountant, Audit (Gap year scheme)*  
 
-*2006 __Charterhouse Capital Partners, City of London, Internship__*
+*2006 __Charterhouse Capital Partners,__ City of London, Internship*
 
 ###### <p align="center"> Teaching </p> ######
 
-*2012 __University of Bristol Disability Centre, 2nd Year Economics 1-on-1 Tutor__*
+*2012 __University of Bristol Disability Centre,__ 2nd Year Economics 1-on-1 Tutor*
 • I had to be flexible and often imaginative, when coming up with ways to explain ideas, models and processes clearly, such that the student could understand.  
 
-*2009 __Bedminster Down School, Assistant Mathematics Teacher__*
+*2009 __Bedminster Down School,__ Assistant Mathematics Teacher*
 • One on one tutoring with pupils aged 11-15 I had to be creative to gain the student’s interest, and get them engaged with the subject, whilst improving their understanding in mathematics.
 
 ### RESPONSIBILITIES
